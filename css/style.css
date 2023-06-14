@@ -1,0 +1,81 @@
+html{
+    font-size: 62.5%;}
+
+
+.letraroja
+{color: red;
+    padding-left: 450px;
+    font-size: 100px;}
+
+    h2 {color: red;}
+
+
+p {color:hsl(0, 0%, 2%);}
+
+
+body{background-color:skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px
+;}
+
+
+img{
+    padding-left: 200px;
+}
+
+.blanco{background-color: aliceblue;}
+
+.menu{
+    background-color: aliceblue;
+    padding-left: 100px;
+    display: flex;
+    font-size: 50px;
+    list-style: none;
+    text-decoration: none;
+    
+    }
+
+    .imghombre{
+        display:flex;
+        flex-direction:column;
+        
+    }
+
+a{text-decoration: none;}
+    
+
+li{margin: 10px;}
+
+.redes{
+    width: 20px;
+    height: 50px;
+    left: 10px;
+    height: 20px;
+    display: block;
+margin-top: 4px;}
+
+    .igyfa{
+        position:fixed;
+        right: 1330px;
+        top:50%
+    }
+
+    .imgropa{
+        width: 400px;
+        height: 400px;
+        padding-left: 10px;
+    }
+
+  .pie{
+    background-color: blue;
+    font-size: 50px;
+
+  }
+  a:hover{
+    background-color: blue;
+    font-size: 55px;
+  }
+  .footer{
+    background-color: blanchedalmond;
+    font-size: 30px;
+  }
